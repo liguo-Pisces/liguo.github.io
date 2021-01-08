@@ -1,0 +1,49 @@
+#+TITLE: liguo's blog
+
+* 操作系统
+
+* 网络
+  
+* 编程语言
+ 
+** C/C++
+
+** [[file:programming-language/go/][Go]]
+
+*** [[file:programming-language/go/basis.org][Go基础]]
+
+
+** Python
+   
+*** Python基础
+   
+** JavaScript
+   
+** SQL
+
+** Lua
+
+** Bash
+   
+** Lisp
+   
+** PHP
+
+
+* 数据库
+
+** PostgreSQL
+   
+** Redis
+   
+** MySQL
+
+
+* 算法
+  
+* 工具 
+
+** Git
+
+** Docker
+
