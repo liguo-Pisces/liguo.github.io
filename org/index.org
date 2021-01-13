@@ -2,31 +2,39 @@
 
 * 操作系统
 
+
 * 网络
   
+
 * 编程语言
  
 ** C/C++
+
 
 ** [[file:programming-language/go/][Go]]
 
 *** [[file:programming-language/go/basis.org][Go基础]]
 
 
+** Lisp
+   
 ** Python
    
 *** Python基础
    
+
 ** JavaScript
    
+
 ** SQL
+
 
 ** Lua
 
+
 ** Bash
    
-** Lisp
-   
+
 ** PHP
 
 
@@ -41,6 +49,7 @@
 
 * 算法
   
+
 * 工具 
 
 ** Git
